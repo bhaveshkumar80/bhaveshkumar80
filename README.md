@@ -1,4 +1,5 @@
-### Hi there 👋
+👋 Hi I'm  Bhavesh Kumar, a senior student in Computer Science and Engineering (CSE).
+My interests are aligned with Machine Learning and Deep Learning. I have good knowledge of Python3, Deep Learning, Machine Learning, NLP, MySql, Tableau, Power BI, Django, Flask.
 
 <!--
 **bhaveshkumar80/bhaveshkumar80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
