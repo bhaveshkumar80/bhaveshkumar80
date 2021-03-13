@@ -1,7 +1,9 @@
 - 👋 Hi I'm  Bhavesh Kumar, an undergraduate student in Computer Science and Engineering (CSE).
-- 🔭 I’m currently working on how to explore Deep learning in Healthcare and Agriculture.
-- 🌱 I’m currently learning NLP and Deep learning.
-- 👯 I’m looking to collaborate on Kaggle Competitions.
+- 🔭 Currently working on how to explore Deep learning in Healthcare and Agriculture.
+- 🌱 Currently learning NLP and Deep learning.
+- 👯 Looking to collaborate on Kaggle Competitions.
+
+Reach me on - [LinkedIN](https://www.linkedin.com/in/bhavesh-kumar-132903176), [Kaggle](https://www.kaggle.com/bhaveshkumar2806)
    
 
 <!--
