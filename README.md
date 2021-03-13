@@ -1,7 +1,8 @@
-👋 Hi I'm  Bhavesh Kumar, an undergraduate student in Computer Science and Engineering (CSE).
+- 👋 Hi I'm  Bhavesh Kumar, an undergraduate student in Computer Science and Engineering (CSE).
+- 🔭 I’m currently working on how to explore Deep learning in Healthcare and Agriculture.
+- 🌱 I’m currently learning NLP and Deep learning.
+- 👯 I’m looking to collaborate on Kaggle Competitions.
    
-   My interests are aligned with Machine Learning and Deep Learning.
-   I have good knowledge of Python3, Deep Learning, Machine Learning, NLP, MySql, Tableau, Power BI, Django, Flask.
 
 <!--
 **bhaveshkumar80/bhaveshkumar80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
