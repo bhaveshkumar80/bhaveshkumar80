@@ -1,7 +1,5 @@
-- 👋 Hi I'm  Bhavesh Kumar, an undergraduate student in Computer Science and Engineering (CSE).
-- 🔭 Currently working on how to explore Deep learning in Healthcare and Agriculture.
-- 🌱 Learning NLP and Deep learning.
-- 👯 Looking to collaborate on Kaggle Competitions.
+- 👋 Hi I'm  Bhavesh Kumar, an AI & ML Engineer II with 4 years of experience in data science, machine learning, and advanced analytics.
+- 🔭  Over the past year, I have focused on Generative AI, working extensively with LangChain, Retrieval-Augmented Generation (RAG) pipelines, and large language models (LLMs) to build intelligent, context-aware applications.
 
 Reach me on - [LinkedIN](https://www.linkedin.com/in/bhavesh-kumar-132903176), [Kaggle](https://www.kaggle.com/bhaveshkumar2806)
    
